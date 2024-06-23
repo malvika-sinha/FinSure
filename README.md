@@ -19,39 +19,18 @@ Before you start, make sure you have installed the following on your system:
 - Use a code editor like Visual Studio Code, Sublime Text, or Atom.
 
 ### Keywords and Explanations 🖨️
-Explanation:
-Policyholder:
 
-Purchases policies and files claims using the decentralized application (dApp).
-Decentralized Application (dApp):
-
-Interface for policy purchase, claims filing, and documentation upload.
-Policy Management:
-
-Manages policy creation, premium payments, and updates.
-Claims Processing:
-
-Manages claim submission, evaluation, approval/rejection, and payout initiation.
-Decentralized Insurance Pool:
-
-Aggregates premiums and manages payouts.
-Smart Contracts:
-
-Encodes policy terms, verifies claims, and automates payouts.
-Oracles:
-
-Provide external real-world data for automatic claim verification.
-Decentralized Assessors:
-
-Perform manual claim verification when needed.
-Smart Contract Execution Engine:
-
-Executes policy and claim logic, interacting with the insurance pool.
-Decentralized Insurance Governance:
-
-Allows community voting on policies, rule updates, and proposals.
-User Wallet:
-Stores cryptocurrency and receives claim payouts.
+**Policyholder**: Purchases policies and files claims using the decentralized application (dApp).
+**Decentralized Application (dApp)**: Interface for policy purchase, claims filing, and documentation upload.
+**Policy Management**: Manages policy creation, premium payments, and updates.
+**Claims Processing**: Manages claim submission, evaluation, approval/rejection, and payout initiation.
+**Decentralized Insurance Pool**: Aggregates premiums and manages payouts.
+**Smart Contracts**: Encodes policy terms, verifies claims, and automates payouts.
+**Oracles**: Provide external real-world data for automatic claim verification.
+**Decentralized Assessors:** Perform manual claim verification when needed.
+**Smart Contract Execution Engine**: Executes policy and claim logic, interacting with the insurance pool.
+**Decentralized Insurance Governance**: Allows community voting on policies, rule updates, and proposals.
+**User Wallet**: Stores cryptocurrency and receives claim payouts.
 
 ### Team Members 🤝🏻
 1. Ayush Pratap Singh
