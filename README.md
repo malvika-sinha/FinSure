@@ -21,6 +21,7 @@ Before you start, make sure you have installed the following on your system:
 ### Keywords and Explanations 🖨️
 
 **Policyholder**: Purchases policies and files claims using the decentralized application (dApp).
+
 **Decentralized Application (dApp)**: Interface for policy purchase, claims filing, and documentation upload.
 **Policy Management**: Manages policy creation, premium payments, and updates.
 **Claims Processing**: Manages claim submission, evaluation, approval/rejection, and payout initiation.
