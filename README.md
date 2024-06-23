@@ -18,7 +18,7 @@ Before you start, make sure you have installed the following on your system:
 - Ensure you have Node.js and npm (Node Package Manager) installed.
 - Use a code editor like Visual Studio Code, Sublime Text, or Atom.
 
-### 🖨️ Keywords and Explanations
+### Keywords and Explanations 🖨️
 Explanation:
 Policyholder:
 
@@ -53,4 +53,9 @@ Allows community voting on policies, rule updates, and proposals.
 User Wallet:
 Stores cryptocurrency and receives claim payouts.
 
-### 🤝🏻 Team Members
+### Team Members 🤝🏻
+1. Ayush Pratap Singh
+2. Ekant Sahu
+3. Dilpreet Kaur Bhatia
+4. Malvika Sinha
+
