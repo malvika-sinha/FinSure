@@ -5,14 +5,7 @@ Welcome to SecureDriveChain, where we revolutionize car insurance through blockc
 
 <div align="center"> <img src="https://i.postimg.cc/HLM8Rbkp/Whats-App-Image-2024-06-24-at-9-29-13-PM.jpg" alt="Socieful Logo" width="900" height="500"> </div>
 
-
 <div align="center"> <img src="https://i.postimg.cc/HLM8Rbkp/Whats-App-Image-2024-06-24-at-9-29-13-PM.jpg" alt="Socieful Logo" width="900" height="500"> </div>
-
-![WhatsApp Image 2024-06-24 at 11 18 12 PM](https://github.com/malvika-sinha/SecureDriveChain/assets/80953969/aff29056-601f-48b3-b14d-b11e01f70d48)
-
-
-![WhatsApp Image 2024-06-24 at 9 29 13 PM](https://github.com/malvika-sinha/SecureDriveChain/assets/80953969/327fc0e2-ee94-4c4f-acb2-210b514b5fd6)
-
 
 ### Prerequisites 📝
 
