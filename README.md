@@ -3,7 +3,7 @@
 ## 👉🏻 Introduction
 Welcome to SecureDriveChain, where we revolutionize car insurance through blockchain technology. Our platform leverages smart contracts to automate policy management and claims processing, ensuring transparency, efficiency, and security for every policyholder. By integrating blockchain, we eliminate intermediaries, reduce administrative costs, and provide a trustworthy environment for purchasing insurance and filing claims. Discover a new era of car insurance with SecureDriveChain, where innovation meets reliability.
 
-<div align="center"> <img src="https://i.postimg.cc/HLM8Rbkp/Whats-App-Image-2024-06-24-at-9-29-13-PM.jpg" alt="Socieful Logo" width="900" height="500"> </div>
+<div align="center"> <img src="https://i.postimg.cc/HLM8Rbkp/Whats-App-Image-2024-06-24-at-9-29-13-PM.jpg" alt="Socieful Logo" width="800" height="400"> </div><br>
 
 <div align="center"> <img src="https://i.postimg.cc/HLM8Rbkp/Whats-App-Image-2024-06-24-at-9-29-13-PM.jpg" alt="Socieful Logo" width="900" height="500"> </div>
 
