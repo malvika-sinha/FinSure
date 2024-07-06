@@ -1,22 +1,32 @@
-import React from "react";
-import Header from "./components/Header";
-import Navbar from "./components/Navbar";
-import MainContent from "./components/MainContent";
-import styled from "styled-components";
+import React from 'react';
+import styled, { createGlobalStyle } from 'styled-components';
+import Navbar from './components/navbar';
+import Welcome from './components/welcome';
 
-const AppContainer = styled.div`
-  font-family: Arial, sans-serif;
-  color: #333;
+const GlobalStyle = createGlobalStyle`
+  body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #0e0e0e;
+    color: #ffffff;
+  }
 `;
 
-function App() {
+const AppContainer = styled.div`
+  text-align: center;
+`;
+
+const App=()=> {
   return (
     <AppContainer>
-      <Header />
+      <GlobalStyle />
       <Navbar />
-      <MainContent />
+      <Welcome />
     </AppContainer>
   );
 }
 
 export default App;
+
+
+
