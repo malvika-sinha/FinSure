@@ -1,7 +1,8 @@
 import React from 'react';
 import styled, { createGlobalStyle } from 'styled-components';
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 import Welcome from './components/welcome';
+import CarForm from './components/CarForm';
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -22,8 +23,10 @@ const App=()=> {
       <GlobalStyle />
       <Navbar />
       <Welcome />
+      
     </AppContainer>
-  );
+
+);
 }
 
 export default App;

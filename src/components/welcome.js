@@ -1,7 +1,12 @@
 import React from 'react';
 import styled from 'styled-components';
+// import { useHistory } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCar, faMotorcycle } from '@fortawesome/free-solid-svg-icons';
+
+
 
 const WelcomeContainer = styled.div`
   background-color: #0e0e0e;
@@ -52,27 +57,56 @@ const Button = styled.button`
   }
 `;
 
-const Welcome=()=> {
+
+const Welcome = () => {
+  // const history = useHistory();
+
+  const navigateToFormPage = () => {
+    history.push('/Carform');
+  };
+
   return (
     <WelcomeContainer>
       <Title>Welcome to FinSure!!</Title>
       <Subtitle>Redefining the standard for digital Insurance</Subtitle>
       <Description>Get quota for Cars and Bikes</Description>
       <ButtonContainer>
-        <Button>
+        <Button onClick={navigateToFormPage}>
           <FontAwesomeIcon icon={faCar} />
           Cars
         </Button>
-        <Button>
+        <Button onClick={navigateToFormPage}>
           <FontAwesomeIcon icon={faMotorcycle} />
           Bikes
         </Button>
       </ButtonContainer>
     </WelcomeContainer>
   );
-}
+};
 
 export default Welcome;
+
+// const Welcome=()=> {
+//   return (
+//     <WelcomeContainer>
+//       <Title>Welcome to FinSure!!</Title>
+//       <Subtitle>Redefining the standard for digital Insurance</Subtitle>
+//       <Description>Get quota for Cars and Bikes</Description>
+//       <ButtonContainer>
+//         <Button>
+//           <FontAwesomeIcon icon={faCar} />
+//           Cars
+//         </Button>
+//         <Button>
+//           <FontAwesomeIcon icon={faMotorcycle} />
+//           Bikes
+//         </Button>
+//       </ButtonContainer>
+//     </WelcomeContainer>
+//   );
+// }
+
+// export default Welcome;
 
 
 
