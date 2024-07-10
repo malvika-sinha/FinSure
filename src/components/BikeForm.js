@@ -47,11 +47,11 @@ const SubmitButton = styled.button`
   }
 `;
 
-const FormPage = () => {
+const BikeForm = () => {
   return (
     <FormContainer>
       <Title>Form Page</Title>
-      <Form>
+      <Form> 
         <Input type="text" placeholder="Input 1" />
         <Input type="text" placeholder="Input 2" />
         <Input type="text" placeholder="Input 3" />
@@ -62,4 +62,4 @@ const FormPage = () => {
   );
 };
 
-export default FormPage;
+export default BikeForm;

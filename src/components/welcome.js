@@ -1,8 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-// import { useHistory } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCar, faMotorcycle } from '@fortawesome/free-solid-svg-icons';
 
@@ -59,11 +57,17 @@ const Button = styled.button`
 
 
 const Welcome = () => {
-  // const history = useHistory();
+  
 
-  const navigateToFormPage = () => {
-    history.push('/Carform');
+  const navigate = useNavigate();
+
+  const navigateToFormPageCar = () => {
+    navigate('Carform');
   };
+  const navigateToFormPageBike = () => {
+    navigate('Bikeform');
+  };
+ 
 
   return (
     <WelcomeContainer>
@@ -71,11 +75,11 @@ const Welcome = () => {
       <Subtitle>Redefining the standard for digital Insurance</Subtitle>
       <Description>Get quota for Cars and Bikes</Description>
       <ButtonContainer>
-        <Button onClick={navigateToFormPage}>
+        <Button onClick={navigateToFormPageCar}>
           <FontAwesomeIcon icon={faCar} />
           Cars
         </Button>
-        <Button onClick={navigateToFormPage}>
+        <Button onClick={navigateToFormPageBike}>
           <FontAwesomeIcon icon={faMotorcycle} />
           Bikes
         </Button>
@@ -85,33 +89,3 @@ const Welcome = () => {
 };
 
 export default Welcome;
-
-// const Welcome=()=> {
-//   return (
-//     <WelcomeContainer>
-//       <Title>Welcome to FinSure!!</Title>
-//       <Subtitle>Redefining the standard for digital Insurance</Subtitle>
-//       <Description>Get quota for Cars and Bikes</Description>
-//       <ButtonContainer>
-//         <Button>
-//           <FontAwesomeIcon icon={faCar} />
-//           Cars
-//         </Button>
-//         <Button>
-//           <FontAwesomeIcon icon={faMotorcycle} />
-//           Bikes
-//         </Button>
-//       </ButtonContainer>
-//     </WelcomeContainer>
-//   );
-// }
-
-// export default Welcome;
-
-
-
-
-
-
-
-
