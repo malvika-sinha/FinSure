@@ -3,9 +3,7 @@
 ## 👉🏻 Introduction
 Welcome to FinSure, where we revolutionize car insurance through blockchain technology. Our platform leverages smart contracts to automate policy management and claims processing, ensuring transparency, efficiency, and security for every policyholder. By integrating blockchain, we eliminate intermediaries, reduce administrative costs, and provide a trustworthy environment for purchasing insurance and filing claims. Discover a new era of car insurance with FinSure, where innovation meets reliability.
 <br>
-<div align="center"> <img src="https://i.postimg.cc/05G6QPFH/Whats-App-Image-2024-06-24-at-11-18-12-PM.jpg" alt="Logo" width="800" height="400"> </div><br>
-
-<div align="center"> <img src="https://i.postimg.cc/HLM8Rbkp/Whats-App-Image-2024-06-24-at-9-29-13-PM.jpg" alt="Logo" width="800" height="400"> </div><br>
+###LINK : https://finsure-kappa.vercel.app/
 
 ### Prerequisites 📝
 
